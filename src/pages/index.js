@@ -1,3 +1,5 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+export default () => (
+  <div style={{ fontSize: "4em", color: "blue" }}>Hello world!</div>
+)
